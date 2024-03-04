@@ -1,2 +1,2 @@
 # 
-simple website
+simple html, css website
